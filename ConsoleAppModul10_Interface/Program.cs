@@ -42,7 +42,7 @@ namespace ConsoleAppModul10_Interface
             Console.ReadKey();
         }
     }
-
+    
     public interface ICalculator
     { 
         void Solve(int num1, int num2);
